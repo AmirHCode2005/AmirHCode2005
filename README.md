@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="pic.png" alt="Banner" width="100%" />
+</p>
+
+---
+
 <!-- Header Banner -->
 <h1 align="center">👋 Welcome to My Profile</h1>
 <h3 align="center">I'm Amir Hossein Heydari — A Python & Machine Learning Enthusiast</h3>
