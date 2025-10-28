@@ -5,9 +5,9 @@
 ---
 
 ### 🌟 About Me
-Hi there! I'm passionate about **Python**, **Data Science**, and **Machine Learning**.  
-I enjoy exploring how data can be turned into powerful insights and smart solutions.  
-Currently, I'm focusing on improving my ML models and working on smart home efficiency projects.
+Hi there! I'm passionate about **Python**, **SQL**, **Data Science**, and **Machine Learning**.  
+I enjoy exploring how data can be transformed into powerful insights and intelligent solutions.  
+Currently, I'm working on diverse data-driven projects, improving my ML models, and expanding my skills in **SQL** and advanced analytics.
 
 ---
 
