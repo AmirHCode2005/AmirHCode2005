@@ -50,4 +50,4 @@ Currently, I'm working on diverse data-driven projects, improving my ML models, 
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and follow me for updates.*
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and follow me for updates.* 
