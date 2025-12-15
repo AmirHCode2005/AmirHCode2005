@@ -38,10 +38,8 @@ I see **data as a language**, and I love turning numbers into insights and build
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirHCode2005&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHCode2005&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=AmirHCode2005&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHCode2005&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
