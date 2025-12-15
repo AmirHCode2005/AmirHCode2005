@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pic.jpg" alt="Amir Hossein" width="200" style="border-radius:50%"/>
+  <img src="pic.jpg" alt="Amir Hossein" width="800px" height="800px" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">👋 Welcome to Amir Hossein's GitHub Universe</h1>
