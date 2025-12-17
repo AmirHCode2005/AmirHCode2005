@@ -39,7 +39,7 @@ I see **data as a language**, and I love turning numbers into insights and build
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=AmirHCode2005&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHCode2005&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=default&langs_count=10&card_width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHCode2005&theme=transparent)
 
 ---
 
